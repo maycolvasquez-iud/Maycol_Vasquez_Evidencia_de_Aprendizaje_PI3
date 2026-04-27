@@ -41,6 +41,7 @@ MRR en riesgo
 Cuantificar ingresos mensuales comprometidos por clientes de alto riesgo.
 Reducción proyectada del churn
 Disminuir la tasa actual del 26.5% en un 15%.
+
 🗂️ Dataset Utilizado
 Telco Customer Churn Dataset
 
@@ -96,9 +97,11 @@ GitHub
  ┣ 📄 reporte_pandas_profiling
  
 ▶️ Cómo Ejecutar el Proyecto
+
 Opción 1: Google Colab
 Abrir el archivo .ipynb
 Ejecutar cada celda en orden
+
 Opción 2: Local
 git clone https://github.com/maycolvasquez-iud/Maycol_Vasquez_Evidencia_de_Aprendizaje_PI3.git
 cd Maycol_Vasquez_Evidencia_de_Aprendizaje_PI3
@@ -121,9 +124,13 @@ https://trello.com/invite/b/69ec3371d0fbed61c88d89f5/ATTI08757d3692f1d455f1aca4e
 A través del análisis exploratorio se busca:
 
 Detectar perfiles de clientes con mayor probabilidad de abandono.
+
 Encontrar patrones de comportamiento.
+
 Diseñar estrategias de retención.
+
 Reducir churn y proteger ingresos mensuales.
+
 
 🚀 Repositorio GitHub
 
@@ -132,7 +139,9 @@ Reducir churn y proteger ingresos mensuales.
 📬 Contacto
 
 Maycol Vasquez Casas
+
 Estudiante de Ingeniería de Software y Datos
+
 Institución Universitaria Digital de Antioquia
 
 ⭐ Si te gustó este proyecto
