@@ -26,6 +26,7 @@ Además:
 Retener clientes actuales cuesta menos que adquirir nuevos.
 El churn elevado reduce la rentabilidad.
 Limita el crecimiento sostenible del negocio.
+
 ❓ Pregunta de negocio
 
 ¿Cuáles son las características demográficas y contractuales de los clientes con mayor probabilidad de cancelar el servicio, y qué acciones específicas se pueden implementar para reducir la tasa de abandono mensual en un 15%?
