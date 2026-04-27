@@ -88,8 +88,11 @@ GitHub
 
 📁 Estructura del Repositorio
 📦 Maycol_Vasquez_Evidencia_de_Aprendizaje_PI3
+
  ┣ 📄 README.md
+ 
  ┣ 📄 Maycol_Vasquez_Evidencia_de_Aprendizaje.ipynb
+ 
  ┣ 📄 reporte_pandas_profiling
  
 ▶️ Cómo Ejecutar el Proyecto
