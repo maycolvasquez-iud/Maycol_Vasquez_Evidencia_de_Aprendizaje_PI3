@@ -4,11 +4,15 @@
 Maycol Vasquez Casas
 
 Institución Universitaria Digital de Antioquia
+
 Ingeniería de Software y Datos
+
 Proyecto Integrado III - Analítica de Datos
+
 Docente: Andrés Felipe Palacio
 
 📍 Medellín, Colombia
+
 📅 Abril 2026
 
 📌 Descripción del Proyecto
@@ -24,7 +28,9 @@ La empresa enfrenta una disminución significativa en sus ingresos recurrentes m
 Además:
 
 Retener clientes actuales cuesta menos que adquirir nuevos.
+
 El churn elevado reduce la rentabilidad.
+
 Limita el crecimiento sostenible del negocio.
 
 ❓ Pregunta de negocio
@@ -36,13 +42,18 @@ Limita el crecimiento sostenible del negocio.
 Para medir el impacto del análisis se plantean las siguientes métricas:
 
 Identificación de variables clave
+
 Detectar al menos 3 variables con correlación significativa respecto al churn.
+
 MRR en riesgo
+
 Cuantificar ingresos mensuales comprometidos por clientes de alto riesgo.
+
 Reducción proyectada del churn
+
 Disminuir la tasa actual del 26.5% en un 15%.
 
-🗂️ Dataset Utilizado
+🗂️ Dataset Utilizado:
 Telco Customer Churn Dataset
 
 📌 Fuente: Kaggle / IBM
@@ -50,44 +61,81 @@ Telco Customer Churn Dataset
 🔗 https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
 Características:
+
 7043 registros
+
 21 variables
+
 Archivo CSV
+
 Tamaño aproximado: 977 KB
+
 Variables Incluidas
+
 👥 Demográficas
+
 Género
+
 Adulto mayor
+
 Pareja
+
 Dependientes
+
 📞 Servicios Contratados
+
 Teléfono
+
 Internet
+
 Seguridad online
+
 Streaming TV
+
 Backup
+
 Protección de dispositivos
+
 💳 Cuenta del Cliente
+
 Tipo de contrato
+
 Método de pago
+
 Facturación electrónica
+
 Antigüedad
+
 Cargo mensual
+
 Cargo total
+
 🎯 Variable Objetivo
+
 Churn → Indica si el cliente canceló el servicio (Yes / No)
+
 🧪 Tecnologías Utilizadas
+
 Python 3
+
 Google Colab
+
 Jupyter Notebook
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 ydata-profiling / pandas profiling
+
 GitHub
 
 📁 Estructura del Repositorio
+
 📦 Maycol_Vasquez_Evidencia_de_Aprendizaje_PI3
 
  ┣ 📄 README.md
@@ -112,7 +160,9 @@ jupyter notebook
 Se utilizó metodología visual tipo Kanban mediante Trello para organizar tareas:
 
 Por hacer
+
 En progreso
+
 Hecho
 
 🔗 Tablero Trello:
